@@ -1,0 +1,61 @@
+# Sintra Help Center
+
+> Help center for Sintra
+
+## Getting started
+
+- [What is Sintra?](https://help.sintra.ai/en/articles/12266334-what-is-sintra.md): A quick overview covering everything you need to know to get started.
+- [Plans and pricing](https://help.sintra.ai/en/articles/9607367-plans-and-pricing.md): Learn what’s included in Sintra, how billing works, how credits work, and what your refund options are.
+- [Login to Sintra](https://help.sintra.ai/en/articles/9607154-login-to-sintra.md): Learn how to log in to the Sintra App for the first time using a one-time login code, set up a password, and troubleshoot login issues.
+- [How to get started with Sintra](https://help.sintra.ai/en/articles/13161738-how-to-get-started-with-sintra.md): Unlock Sintra’s full potential with this step-by-step guide for new users. Learn how to upload documents, set up integrations, customize helpers, and keep your workspace organized for success.
+- [The Explore Tab: Your Inspiration](https://help.sintra.ai/en/articles/15029459-the-explore-tab-your-inspiration.md): The Explore tab is Sintra’s creative launchpad — ready-made prompts, real-world inspiration, and community-proven templates to help you create visuals, social posts, logos, and more. This guide cov...
+
+## Features
+
+- [Ideas Feature Explained](https://help.sintra.ai/en/articles/9691768-ideas-feature-explained.md): Learn how to use the Ideas feature to get daily suggestions from helpers and manage your tasks with ease.
+- [Sintra’s global chat search feature explained](https://help.sintra.ai/en/articles/10517637-sintra-s-global-chat-search-feature-explained.md): Learn about the new global search feature in Chat History. Find the needed conversations with AI Helpers fast.
+- [Sintra workspace features and their interaction](https://help.sintra.ai/en/articles/12638328-sintra-workspace-features-and-their-interaction.md): Learn what features Sintra offers and how they interact with each other.
+- [Meeting Notetaker](https://help.sintra.ai/en/articles/12899745-meeting-notetaker.md): Learn about Vizzy's ability to join your online meetings, transcribe, and summarise them.
+- [Integrations explained](https://help.sintra.ai/en/articles/12929400-integrations-explained.md)
+- [Knowledge explained](https://help.sintra.ai/en/articles/12930518-knowledge-explained.md): Learn about Brain AI knowledge, what it is, what it does, how to utilize it.
+- [Recurring Scheduled Helper Tasks](https://help.sintra.ai/en/articles/12913572-recurring-scheduled-helper-tasks.md): Learn how to make the helpers work in the background with defining a task once.
+- [Image Generation Guide](https://help.sintra.ai/en/articles/13436077-image-generation-guide.md): Create images fast in Sintra, add your logo for brand consistency, and get better results with simple prompt tweaks.
+- [Editing Images In Chat](https://help.sintra.ai/en/articles/13436568-editing-images-in-chat.md): How to Edit Images In Chat with a Helper
+- [Editing Images in the Content Calendar](https://help.sintra.ai/en/articles/13436598-editing-images-in-the-content-calendar.md): How to Edit Images in the Social Media Manager Automation
+- [Image Editing](https://help.sintra.ai/en/articles/13436549-image-editing.md): How to Edit Images in Sintra
+- [Helper Builder](https://help.sintra.ai/en/articles/15012096-helper-builder.md): Helper Builder is live. Create your own custom Helper with their own personality, skills, and expertise.
+
+## Account & billing
+
+- [Managing your Invoices](https://help.sintra.ai/en/articles/9675507-managing-your-invoices.md): Learn how to find your invoice history, update payment details, and request information to be included in your Sintra AI invoices.
+- [Sintra account did not activate](https://help.sintra.ai/en/articles/10542487-sintra-account-did-not-activate.md): Learn how to troubleshoot Sintra's account activation issue and learn more about the potential causes.
+- [How to manage your billing in Sintra App](https://help.sintra.ai/en/articles/9607392-how-to-manage-your-billing-in-sintra-app.md): Learn how to update payment information or cancel your subscription plan.
+- [14-Day Money-Back Guarantee](https://help.sintra.ai/en/articles/9607378-14-day-money-back-guarantee.md): Learn about our 14-day money-back guarantee and how to request a refund.
+- [How to apply a coupon code](https://help.sintra.ai/en/articles/10616286-how-to-apply-a-coupon-code.md): Learn how to apply a coupon code when purchasing Sintra products. Troubleshoot coupon code application issues.
+- [Understanding Sintra discounts](https://help.sintra.ai/en/articles/11785409-understanding-sintra-discounts.md): Learn about the discounts Sintra offers, what is required to be eligible for them and how they are applied in a long-term perspective.
+- [Why is VAT collected?](https://help.sintra.ai/en/articles/12447475-why-is-vat-collected.md): Understand why your order includes a VAT charge.
+- [Workspace credits](https://help.sintra.ai/en/articles/12606676-workspace-credits.md): Learn about Sintra workspace credits, what they are, how they're used, and more.
+- [Plans and pricing](https://help.sintra.ai/en/articles/12606895-plans-and-pricing.md): Learn about Sintra's pricing options, including plan types, billing periods, and the money-back guarantee.
+- [Subscription Cancelation \(Apple App Store & Google Play Store\)](https://help.sintra.ai/en/articles/15049375-subscription-cancelation-apple-app-store-google-play-store.md): Learn how to manage, cancel, or modify your Sintra subscription purchased from a third-party provider. \(Apple App Store & Google Play Store\)
+- [Subscription Cancelation \(Website\)](https://help.sintra.ai/en/articles/15049021-subscription-cancelation-website.md): Learn how to manage, cancel, or modify your Sintra subscription.
+- [Upgrading workspace credits on the mobile app](https://help.sintra.ai/en/articles/15957623-upgrading-workspace-credits-on-the-mobile-app.md)
+
+## Privacy & security
+
+- [Uploading Sensitive and Personal Information](https://help.sintra.ai/en/articles/9675516-uploading-sensitive-and-personal-information.md): Learn how to safely process and upload sensitive or personal information while working with Sintra AI.
+
+## Partnership opportunities
+
+- [Sintra AI Affiliate Program](https://help.sintra.ai/en/articles/9675436-sintra-ai-affiliate-program.md): Learn how to join the Sintra AI Affiliate Program and earn commissions by sharing your unique affiliate link.
+- [Create User-Generated Content \(UGC\) for Sintra](https://help.sintra.ai/en/articles/11588591-create-user-generated-content-ugc-for-sintra.md): Learn the guidelines for Sintra's User-Generated content. Start creating and collaborating with Sintra to earn subscription time or more.
+
+## General troubleshooting & FAQ
+
+- [How to reach and communicate with Sintra's customer support](https://help.sintra.ai/en/articles/9675474-how-to-reach-and-communicate-with-sintra-s-customer-support.md): Learn how to get help using Sintra AI. Get assistance from our customer support via email or chat.
+- [How do I find my chats with helpers that appear to be gone?](https://help.sintra.ai/en/articles/11380681-how-do-i-find-my-chats-with-helpers-that-appear-to-be-gone.md): Find your missing chats with a few quick steps.
+- [Unable to select social media pages for weekly posting automation](https://help.sintra.ai/en/articles/12447193-unable-to-select-social-media-pages-for-weekly-posting-automation.md): Learn what to do if you're having issues seeing social media pages durin social media manager automation setup.
+- [Buddy can't process the link to my website in the onboarding process](https://help.sintra.ai/en/articles/12505438-buddy-can-t-process-the-link-to-my-website-in-the-onboarding-process.md)
+- [Email Entered at Checkout Has a Typo/ Mistyped, wrong email / need to use a different email](https://help.sintra.ai/en/articles/12505441-email-entered-at-checkout-has-a-typo-mistyped-wrong-email-need-to-use-a-different-email.md)
+- [I'm unable to post to Facebook and/or Instagram](https://help.sintra.ai/en/articles/12164578-i-m-unable-to-post-to-facebook-and-or-instagram.md)
+- [How to change the timezone Helpers work in?](https://help.sintra.ai/en/articles/12546134-how-to-change-the-timezone-helpers-work-in.md): Understanding how Sintra handles timezones helps ensure your tasks, schedules, and calendar views always reflect the correct local time.
+- [Reconnecting an integration in Sintra from scratch](https://help.sintra.ai/en/articles/12637026-reconnecting-an-integration-in-sintra-from-scratch.md): Learn how to reconnect an integration from scratch after attempting initial troubleshooting steps.

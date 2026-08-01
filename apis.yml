@@ -1,7 +1,17 @@
 aid: sintra
 name: Sintra
-description: Sintra is a company surfaced as a portfolio company of earlybird and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Sintra is a no-code AI-employees platform that gives small businesses a team of
+  role-based digital workers. It ships 12 specialized AI helpers — such as Soshie
+  (social media), Cassie (customer support), Seomi (SEO), Buddy, and Vizzy (meeting
+  notetaker) — that handle social media, inbox, content, customer support, SEO, and
+  sales and business operations. Users chat with helpers, schedule recurring
+  background tasks, build custom helpers with the Helper Builder, and connect tools
+  like Facebook, Instagram, Gmail, Google Calendar, Outlook, Google Drive, Notion,
+  and Strava through consumer OAuth integrations. Sintra is a portfolio company of
+  Earlybird Venture Capital. As of this profile Sintra publishes no public developer
+  API, OpenAPI, or API reference — it is an end-user low-code product rather than a
+  developer platform.
 url: https://raw.githubusercontent.com/api-evangelist/sintra/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,14 +19,68 @@ x-backed-by:
 - earlybird
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
+image: https://cdn.prod.website-files.com/661d4f6d81ac1042b721396c/6644bb86873663f1db3a68cd_sintra-home-opengraph.jpg
 tags:
 - Company
+- Artificial Intelligence
+- AI Agents
+- AI Employees
+- Automation
+- No-Code
+- Productivity
+- Customer Support
+- Marketing
+- SaaS
+- Small Business
 apis: []
+common:
+- type: DomainSecurity
+  url: security/sintra-domain-security.yml
+- type: Website
+  url: https://sintra.ai
+- type: Documentation
+  url: https://help.sintra.ai
+- type: GettingStarted
+  url: https://help.sintra.ai/en/articles/13161738-how-to-get-started-with-sintra
+- type: Support
+  url: https://help.sintra.ai
+- type: Blog
+  url: https://sintra.ai/blog
+- type: Pricing
+  url: https://sintra.ai/pricing
+- type: SignUp
+  url: https://app.sintra.ai/login
+- type: Login
+  url: https://app.sintra.ai/login
+- type: TermsOfService
+  url: https://sintra.ai/legal/terms-and-conditions
+- type: PrivacyPolicy
+  url: https://sintra.ai/legal/privacy-policy
+- type: LLMsTxt
+  url: llms/sintra-llms.txt
+- type: WellKnown
+  url: well-known/sintra-well-known.yml
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 3
+  pass: local-v1

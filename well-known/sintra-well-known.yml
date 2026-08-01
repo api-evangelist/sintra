@@ -1,0 +1,34 @@
+generated: '2026-07-21'
+method: searched
+source: live probe of /.well-known/ on sintra.ai and api.sintra.ai
+description: >-
+  Results of probing the /.well-known/ discovery surface for the Sintra base
+  hosts. Sintra is a no-code AI-employees SaaS with no public developer API, so
+  no OpenID/OAuth/API-catalog discovery documents are published. Every probed
+  path returned 404. Status is the HTTP code observed at fetch time; nothing was
+  saved because no path returned a real document.
+hosts:
+  - host: https://sintra.ai
+    documents:
+      - path: /.well-known/security.txt
+        status: 404
+      - path: /.well-known/openid-configuration
+        status: 404
+      - path: /.well-known/oauth-authorization-server
+        status: 404
+      - path: /.well-known/api-catalog
+        status: 404
+      - path: /.well-known/ai-plugin.json
+        status: 404
+  - host: https://api.sintra.ai
+    documents:
+      - path: /.well-known/security.txt
+        status: 404
+      - path: /.well-known/openid-configuration
+        status: 404
+      - path: /.well-known/oauth-authorization-server
+        status: 404
+      - path: /.well-known/api-catalog
+        status: 404
+      - path: /.well-known/ai-plugin.json
+        status: 404
