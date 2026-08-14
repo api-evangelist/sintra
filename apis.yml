@@ -32,7 +32,7 @@ accessModel:
   method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-21'
+modified: '2026-08-13'
 image: https://cdn.prod.website-files.com/661d4f6d81ac1042b721396c/6644bb86873663f1db3a68cd_sintra-home-opengraph.jpg
 tags:
 - Company
@@ -72,15 +72,44 @@ common:
   url: https://sintra.ai/legal/privacy-policy
 - type: LLMsTxt
   url: llms/sintra-llms.txt
-- type: WellKnown
-  url: well-known/sintra-well-known.yml
+- type: Plans
+  url: plans/sintra-plans-pricing.yml
+- type: RateLimits
+  url: rate-limits/sintra-rate-limits.yml
+- type: Packages
+  url: packages/sintra-packages.yml
+- type: Roadmap
+  url: https://wishlist.sintra.ai
+- type: GitHubOrganization
+  url: https://github.com/sintra-ai
+- type: HelpCenter
+  url: https://help.sintra.ai
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
 x-enrichment:
-  date: '2026-07-21'
+  date: '2026-08-13'
   status: enriched
   artifacts_added: 3
   pass: local-v1
+x-coverage:
+  state: none
+  reason: no-developer-program
+  detail: >-
+    Sintra's own help center states it outright — "Unlike a public API, which Sintra
+    does not provide" — and the surface agrees: api.sintra.ai is a live FastAPI
+    backend for the web and mobile apps that returns {"detail":"Not Found"} on every
+    path with /docs, /redoc and /openapi.json all disabled, and no docs., developer.
+    or developers.sintra.ai host resolves at all.
+  evidence:
+  - url: https://help.sintra.ai/en/articles/12929400-integrations-explained
+    status: 200
+  - url: https://api.sintra.ai/openapi.json
+    status: 404
+  - url: https://api.sintra.ai/docs
+    status: 404
+  - url: https://sintra.ai/.well-known/agent-card.json
+    status: 404
+  checked: '2026-08-13'
