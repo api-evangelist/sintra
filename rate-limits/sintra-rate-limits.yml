@@ -1,0 +1,46 @@
+generated: '2026-08-13'
+method: searched
+source: https://help.sintra.ai/en/articles/12606676-workspace-credits
+docs:
+- https://help.sintra.ai/en/articles/12606676-workspace-credits
+- https://sintra.ai/pricing
+description: >-
+  Sintra publishes NO API rate limits, because Sintra publishes no public API — its
+  own help center states plainly that Sintra does not provide a public API
+  (https://help.sintra.ai/en/articles/12929400-integrations-explained). There are
+  therefore no documented request windows, no burst allowances, no X-RateLimit-*
+  or RateLimit-* response headers, and no documented 429 behaviour for third-party
+  callers. What Sintra does meter is in-product consumption, through a monthly
+  workspace credit pool. Those consumption rates are recorded below as the real
+  throttle a Sintra user encounters, but they are a billing quota, not an HTTP
+  rate limit, and no agent or integrator can observe them over the wire.
+limit_count: 0
+limit_note: >-
+  Zero published API rate limits. This is an honest zero measured against the
+  provider's docs, not a gap in this probe.
+headers:
+  published: false
+  note: >-
+    No rate-limit response headers are documented. Sintra has no public API surface
+    on which to return them.
+exhaustion_status_code: null
+metering:
+  model: prepaid monthly credit pool
+  scope: per-workspace
+  window: billing cycle (monthly, anchored to subscription start date/time)
+  rollover: false
+  reset: Credits reset at the start of each billing cycle.
+  free_credits_on_new_workspace: 20
+  daily_or_hourly_caps: none published
+  consumption:
+  - action: Message sent in chat to a Helper
+    credits: 0.1 - 1
+  - action: Image created in chat
+    credits: 0.5 - 1.8
+  - action: Social media post created in chat
+    credits: 1
+  - action: Running a scheduled task (Basic)
+    credits: 1 - 5
+    note: Varies with how in-depth the task is.
+  included_by_plan: See plans/sintra-plans-pricing.yml — 250 credits/month on every
+    published Sintra X tier.

@@ -9,6 +9,20 @@
 - [Login to Sintra](https://help.sintra.ai/en/articles/9607154-login-to-sintra.md): Learn how to log in to the Sintra App for the first time using a one-time login code, set up a password, and troubleshoot login issues.
 - [How to get started with Sintra](https://help.sintra.ai/en/articles/13161738-how-to-get-started-with-sintra.md): Unlock Sintra’s full potential with this step-by-step guide for new users. Learn how to upload documents, set up integrations, customize helpers, and keep your workspace organized for success.
 - [The Explore Tab: Your Inspiration](https://help.sintra.ai/en/articles/15029459-the-explore-tab-your-inspiration.md): The Explore tab is Sintra’s creative launchpad — ready-made prompts, real-world inspiration, and community-proven templates to help you create visuals, social posts, logos, and more. This guide cov...
+- [Sintra Referral Program](https://help.sintra.ai/en/articles/16343675-sintra-referral-program.md): Discover Sintra’s referral program and earn $45 by inviting your friends.
+- [How to navigate the Sintra AI web app](https://help.sintra.ai/en/articles/9607255-how-to-navigate-the-sintra-ai-web-app.md): Learn how to navigate Sintra's web app, including the Home Page, Automations, Recurring Helper tasks, Brain AI, Chat history, Legacy offerings, and more.
+- [What languages is the UI \(Interface\) available in?](https://help.sintra.ai/en/articles/12448626-what-languages-is-the-ui-interface-available-in.md)
+- [How to Become a Sintra Beta Tester](https://help.sintra.ai/en/articles/14387127-how-to-become-a-sintra-beta-tester.md): Want early access to Sintra's latest features before they're available to everyone? You can join our beta tester list and be among the first to try out new automations and upcoming functionality.
+- [Which AI Models does Sintra use?](https://help.sintra.ai/en/articles/9675514-which-ai-models-does-sintra-use.md): Learn about the AI models behind Sintra Helpers.
+- [Multiple language support in Sintra App](https://help.sintra.ai/en/articles/9675411-multiple-language-support-in-sintra-app.md): Learn how to set your preferred language in Sintra App and communicate with AI helpers in over 100 languages.
+- [Understanding AI Hallucinations](https://help.sintra.ai/en/articles/12115868-understanding-ai-hallucinations.md): Why They Happen and How to Work With Them?
+- [Who can benefit from using Sintra?](https://help.sintra.ai/en/articles/12354224-who-can-benefit-from-using-sintra.md): Discover who Sintra is built for — from small business owners and freelancers to e-commerce sellers and agencies looking to streamline their work with AI.
+- [Image Management](https://help.sintra.ai/en/articles/13464622-image-management.md): This article covers what images posted into the brain AI are used for \(Social media manager post creation manually, automatically, and through Soshies chat\) and how they are processed.
+- [Sintra Legacy](https://help.sintra.ai/en/articles/9675534-sintra-legacy.md): Learn about Sintra AI legacy products: Sintra Bots, Prompts, Add-ons, and the legacy version of Sintra Helpers.
+- [Sintra Bots](https://help.sintra.ai/en/articles/9740755-sintra-bots.md): What are Sintra Bots?
+- [Sintra Prompts](https://help.sintra.ai/en/articles/9740831-sintra-prompts.md): What are Sintra Prompts?
+- [Sintra's Brain AI \(tutorial\)](https://help.sintra.ai/en/articles/11979044-sintra-s-brain-ai-tutorial.md): Learn how to create profiles, add content & invite your team!
+- [Schedule Posts with Sintra’s Social Media Manager \(tutorial\)](https://help.sintra.ai/en/articles/12117122-schedule-posts-with-sintra-s-social-media-manager-tutorial.md): Learn how to easily schedule social media posts with Sintra’s Social Media Manager.
 
 ## Features
 
@@ -24,6 +38,165 @@
 - [Editing Images in the Content Calendar](https://help.sintra.ai/en/articles/13436598-editing-images-in-the-content-calendar.md): How to Edit Images in the Social Media Manager Automation
 - [Image Editing](https://help.sintra.ai/en/articles/13436549-image-editing.md): How to Edit Images in Sintra
 - [Helper Builder](https://help.sintra.ai/en/articles/15012096-helper-builder.md): Helper Builder is live. Create your own custom Helper with their own personality, skills, and expertise.
+- [Sintra AI workspaces explained](https://help.sintra.ai/en/articles/11704889-sintra-ai-workspaces-explained.md): Learn what a workspace in Sintra is, what types of workspaces exist, how they work and how to utilize them.
+- [Sintra Workspaces](https://help.sintra.ai/en/articles/12606924-sintra-workspaces.md): Learn what a workspace in Sintra is, what types of workspaces exist, how they work and how to utilize them.
+- [Shared Team Workspaces](https://help.sintra.ai/en/articles/12606942-shared-team-workspaces.md): Learn about Brain AI profile sharing with teammates or employees through Sintra App's Team Workspaces. Understand Team Workspace pricing.
+- [Brain AI explained](https://help.sintra.ai/en/articles/12266276-brain-ai-explained.md): Learn how to use Brain AI in Sintra to create a personalized knowledge base for smarter, more contextual content creation.
+- [How to manage knowledge in the Brain AI](https://help.sintra.ai/en/articles/11758256-how-to-manage-knowledge-in-the-brain-ai.md): Learn how to manage files and information stored in the Brain AI to ensure a smooth experience with our Helpers!
+- [Managing multiple projects using Brain AI profiles in Sintra](https://help.sintra.ai/en/articles/11784911-managing-multiple-projects-using-brain-ai-profiles-in-sintra.md): Learn how to manage multiple businesses or projects using separate Sintra workspaces.
+- [What image formats are supported in Brain AI?](https://help.sintra.ai/en/articles/11904669-what-image-formats-are-supported-in-brain-ai.md)
+- [Will Soshie use the file name to find the image?](https://help.sintra.ai/en/articles/11906379-will-soshie-use-the-file-name-to-find-the-image.md)
+- [Using Brain AI Knowledge](https://help.sintra.ai/en/articles/12943244-using-brain-ai-knowledge.md): Learn how to view, add, edit, and delete knowledge from Brain AI.
+- [How many images can I upload at once to Brain AI?](https://help.sintra.ai/en/articles/11904541-how-many-images-can-i-upload-at-once-to-brain-ai.md)
+- [What image formats are supported by Brain AI?](https://help.sintra.ai/en/articles/11904553-what-image-formats-are-supported-by-brain-ai.md)
+- [Can I drag and drop images to upload them to Brain AI?](https://help.sintra.ai/en/articles/11904571-can-i-drag-and-drop-images-to-upload-them-to-brain-ai.md)
+- [How do I use the "+add" button to upload files to Brain AI?](https://help.sintra.ai/en/articles/11904647-how-do-i-use-the-add-button-to-upload-files-to-brain-ai.md)
+- [Can you guide me through uploading images to Brain AI?](https://help.sintra.ai/en/articles/11904645-can-you-guide-me-through-uploading-images-to-brain-ai.md)
+- [Is there a specific way to upload photos to Brain AI?](https://help.sintra.ai/en/articles/11904642-is-there-a-specific-way-to-upload-photos-to-brain-ai.md)
+- [How do I upload images to Brain AI?](https://help.sintra.ai/en/articles/11904619-how-do-i-upload-images-to-brain-ai.md)
+- [Can I upload images from my mobile device?](https://help.sintra.ai/en/articles/11904558-can-i-upload-images-from-my-mobile-device.md)
+- [Is there a daily limit for image uploads to Brain AI?](https://help.sintra.ai/en/articles/11904568-is-there-a-daily-limit-for-image-uploads-to-brain-ai.md)
+- [Are JPEGs supported in Brain AI?](https://help.sintra.ai/en/articles/11904676-are-jpegs-supported-in-brain-ai.md)
+- [Which file formats does Brain AI allow for uploads?](https://help.sintra.ai/en/articles/11904674-which-file-formats-does-brain-ai-allow-for-uploads.md)
+- [Is PNG allowed for Brain AI image uploads?](https://help.sintra.ai/en/articles/11904677-is-png-allowed-for-brain-ai-image-uploads.md)
+- [What image types can I upload?](https://help.sintra.ai/en/articles/11904680-what-image-types-can-i-upload.md)
+- [Can I upload .gif or .webp images to Brain AI?](https://help.sintra.ai/en/articles/11904678-can-i-upload-gif-or-webp-images-to-brain-ai.md)
+- [Is TIFF supported for image uploads in Brain AI?](https://help.sintra.ai/en/articles/11904694-is-tiff-supported-for-image-uploads-in-brain-ai.md)
+- [Can I upload any type of image file to Brain AI?](https://help.sintra.ai/en/articles/11904672-can-i-upload-any-type-of-image-file-to-brain-ai.md)
+- [Are there restrictions on the kind of images I can add?](https://help.sintra.ai/en/articles/11904684-are-there-restrictions-on-the-kind-of-images-i-can-add.md)
+- [Do uploaded images get compressed or altered in quality?](https://help.sintra.ai/en/articles/11904564-do-uploaded-images-get-compressed-or-altered-in-quality.md)
+- [Does Brain AI support both JPG and PNG formats?](https://help.sintra.ai/en/articles/11904689-does-brain-ai-support-both-jpg-and-png-formats.md)
+- [What image formats are compatible with Brain AI?](https://help.sintra.ai/en/articles/11904697-what-image-formats-are-compatible-with-brain-ai.md)
+- [What’s the maximum allowed upload size for images in Brain AI?](https://help.sintra.ai/en/articles/11906116-what-s-the-maximum-allowed-upload-size-for-images-in-brain-ai.md)
+- [Does Brain AI set a size limit per upload session?](https://help.sintra.ai/en/articles/11906121-does-brain-ai-set-a-size-limit-per-upload-session.md)
+- [Is it possible to upload images over 20MB to Brain AI?](https://help.sintra.ai/en/articles/11906119-is-it-possible-to-upload-images-over-20mb-to-brain-ai.md)
+- [What is the specific file size limit for image uploads in Brain AI?](https://help.sintra.ai/en/articles/11906120-what-is-the-specific-file-size-limit-for-image-uploads-in-brain-ai.md)
+- [How large can image uploads be in Brain AI, considering the file size limit?](https://help.sintra.ai/en/articles/11906113-how-large-can-image-uploads-be-in-brain-ai-considering-the-file-size-limit.md)
+- [How many megabytes can be uploaded at once in Brain AI?](https://help.sintra.ai/en/articles/11906125-how-many-megabytes-can-be-uploaded-at-once-in-brain-ai.md)
+- [Are large image files allowed under Brain AI’s upload limit?](https://help.sintra.ai/en/articles/11906126-are-large-image-files-allowed-under-brain-ai-s-upload-limit.md)
+- [Can I upload up to 20MB of images at once in Brain AI?](https://help.sintra.ai/en/articles/11906131-can-i-upload-up-to-20mb-of-images-at-once-in-brain-ai.md)
+- [How does Brain AI handle uploads that are close to the file size limit?](https://help.sintra.ai/en/articles/11906134-how-does-brain-ai-handle-uploads-that-are-close-to-the-file-size-limit.md)
+- [Can I add multiple photos to Brain AI in one go?](https://help.sintra.ai/en/articles/11906213-can-i-add-multiple-photos-to-brain-ai-in-one-go.md)
+- [Does Brain AI support batch uploads?](https://help.sintra.ai/en/articles/11906216-does-brain-ai-support-batch-uploads.md)
+- [Is there a cap on total upload size at one time in Brain AI?](https://help.sintra.ai/en/articles/11906129-is-there-a-cap-on-total-upload-size-at-one-time-in-brain-ai.md)
+- [Can I upload more than one image at a time to Brain AI?](https://help.sintra.ai/en/articles/11906206-can-i-upload-more-than-one-image-at-a-time-to-brain-ai.md)
+- [Can I select and upload a group of images to Brain AI?](https://help.sintra.ai/en/articles/11906218-can-i-select-and-upload-a-group-of-images-to-brain-ai.md)
+- [Am I limited to uploading just one image at a time?](https://help.sintra.ai/en/articles/11906221-am-i-limited-to-uploading-just-one-image-at-a-time.md)
+- [Can I drag and drop multiple files?](https://help.sintra.ai/en/articles/11906234-can-i-drag-and-drop-multiple-files.md)
+- [Is there a way to upload several images together?](https://help.sintra.ai/en/articles/11906227-is-there-a-way-to-upload-several-images-together.md)
+- [Can I upload daily sets of 50+ images?](https://help.sintra.ai/en/articles/11906287-can-i-upload-daily-sets-of-50-images.md)
+- [How many images can I upload per session?](https://help.sintra.ai/en/articles/11906222-how-many-images-can-i-upload-per-session.md)
+- [What’s the easiest way to add many images at once on the web app?](https://help.sintra.ai/en/articles/11906319-what-s-the-easiest-way-to-add-many-images-at-once-on-the-web-app.md)
+- [What’s the purpose of naming images?](https://help.sintra.ai/en/articles/11906349-what-s-the-purpose-of-naming-images.md)
+- [Do I need to name my files before uploading?](https://help.sintra.ai/en/articles/11906336-do-i-need-to-name-my-files-before-uploading.md)
+- [How does Brain AI use the image title?](https://help.sintra.ai/en/articles/11906346-how-does-brain-ai-use-the-image-title.md)
+- [Why do image titles matter in Brain AI?](https://help.sintra.ai/en/articles/11906332-why-do-image-titles-matter-in-brain-ai.md)
+- [Why is the image title so important?](https://help.sintra.ai/en/articles/11906338-why-is-the-image-title-so-important.md)
+- [How does the image title affect referencing?](https://help.sintra.ai/en/articles/11906370-how-does-the-image-title-affect-referencing.md)
+- [What happens if my image has a vague title?](https://help.sintra.ai/en/articles/11906388-what-happens-if-my-image-has-a-vague-title.md)
+- [How do I adjust image titles post-upload?](https://help.sintra.ai/en/articles/11906476-how-do-i-adjust-image-titles-post-upload.md)
+- [Can I change an image title after uploading it?](https://help.sintra.ai/en/articles/11906426-can-i-change-an-image-title-after-uploading-it.md)
+- [Do I need a specific naming convention?](https://help.sintra.ai/en/articles/11906357-do-i-need-a-specific-naming-convention.md)
+- [Why should I pay attention to image naming?](https://help.sintra.ai/en/articles/11906396-why-should-i-pay-attention-to-image-naming.md)
+- [How can I edit the image title after it’s uploaded?](https://help.sintra.ai/en/articles/11906431-how-can-i-edit-the-image-title-after-it-s-uploaded.md)
+- [Is it possible to rename an image in Brain AI?](https://help.sintra.ai/en/articles/11906428-is-it-possible-to-rename-an-image-in-brain-ai.md)
+- [Can I fix typos in image titles?](https://help.sintra.ai/en/articles/11906438-can-i-fix-typos-in-image-titles.md)
+- [What if I want to update the image name?](https://help.sintra.ai/en/articles/11906448-what-if-i-want-to-update-the-image-name.md)
+- [Can I go back and rename old images?](https://help.sintra.ai/en/articles/11906464-can-i-go-back-and-rename-old-images.md)
+- [Can I use any title for images?](https://help.sintra.ai/en/articles/11906382-can-i-use-any-title-for-images.md)
+- [Can uploaded image titles be modified?](https://help.sintra.ai/en/articles/11906466-can-uploaded-image-titles-be-modified.md)
+- [Are image titles editable after upload?](https://help.sintra.ai/en/articles/11906460-are-image-titles-editable-after-upload.md)
+- [Is image title editing supported?](https://help.sintra.ai/en/articles/11906473-is-image-title-editing-supported.md)
+- [What’s the correct prompt to use uploaded images?](https://help.sintra.ai/en/articles/11928024-what-s-the-correct-prompt-to-use-uploaded-images.md)
+- [Do I need to delete and re-upload to change a name?](https://help.sintra.ai/en/articles/11906471-do-i-need-to-delete-and-re-upload-to-change-a-name.md)
+- [Is bulk uploading possible in Brain AI?](https://help.sintra.ai/en/articles/11906207-is-bulk-uploading-possible-in-brain-ai.md)
+- [Can I upload multiple image files to Brain AI in one session?](https://help.sintra.ai/en/articles/11904550-can-i-upload-multiple-image-files-to-brain-ai-in-one-session.md)
+- [Sintra Helpers explained](https://help.sintra.ai/en/articles/9607295-sintra-helpers-explained.md): Learn about Sintra Helpers, AI employees designed to help with your daily work tasks. Discover their unique features and capabilities.
+- [Using the helper's chat](https://help.sintra.ai/en/articles/12130291-using-the-helper-s-chat.md)
+- [What languages can the Helpers speak in?](https://help.sintra.ai/en/articles/12448810-what-languages-can-the-helpers-speak-in.md)
+- [Training your Helpers](https://help.sintra.ai/en/articles/9612926-training-your-helpers.md): This article helps you understand how to train your Helpers to maximize the outcome.
+- [Soshie](https://help.sintra.ai/en/articles/9612920-soshie.md): Learn more about Soshie - our Social Media Manager Helper!
+- [Gigi](https://help.sintra.ai/en/articles/9612891-gigi.md): Learn more about Gigi - our Personal Developement Helper!
+- [Milli](https://help.sintra.ai/en/articles/9612903-milli.md): Learn more about Milli - our Sales Strategist Helper!
+- [Penn](https://help.sintra.ai/en/articles/9612907-penn.md): Learn more about Penn - our Copywriting Expert Helper!
+- [Buddy](https://help.sintra.ai/en/articles/9611060-buddy.md): Learn more about Buddy - our Business Development Helper!
+- [Commet](https://help.sintra.ai/en/articles/9612873-commet.md): Learn more about Commet - our website builder!
+- [Cassie](https://help.sintra.ai/en/articles/9611187-cassie.md): Learn more about Cassie - our Customer Support Helper!
+- [Vizzy](https://help.sintra.ai/en/articles/9612923-vizzy.md): Learn more about Vizzy - our Virtual Assistant Helper!
+- [Emmie](https://help.sintra.ai/en/articles/9612884-emmie.md): Learn more about Emmie - our Email Marketing Helper!
+- [Dexter](https://help.sintra.ai/en/articles/9612879-dexter.md): Learn more about Dexter - our Data Analyst Helper!
+- [Seomi](https://help.sintra.ai/en/articles/9612912-seomi.md): Learn more about Seomi - our SEO Specialist Helper!
+- [Scouty](https://help.sintra.ai/en/articles/9612909-scouty.md): Learn more about Scouty - our Recruitment partner Helper!
+- [How to save a file generated by a Helper?](https://help.sintra.ai/en/articles/11612873-how-to-save-a-file-generated-by-a-helper.md): Learn how to save a file or a document generated by our Sintra AI Helpers.
+- [Helper Collaboration](https://help.sintra.ai/en/articles/12332728-helper-collaboration.md): Sintra helpers can communicate with each other.
+- [Post generation and scheduling in Soshie's chat](https://help.sintra.ai/en/articles/12507940-post-generation-and-scheduling-in-soshie-s-chat.md): Learn how to use Soshie's chat for creating and scheduling social media posts with ease. Soshie's chat gives you hands-on control over post creation and scheduling.
+- [How to analyze your website's SEO performance](https://help.sintra.ai/en/articles/13009922-how-to-analyze-your-website-s-seo-performance.md): Learn how to analyze your website's SEO performance using Sintra AI tools.
+- [How to save a chat?](https://help.sintra.ai/en/articles/12354026-how-to-save-a-chat.md): Helper chats are saved automatically.
+- [Helper's message's text is white and hard to read](https://help.sintra.ai/en/articles/12750224-helper-s-message-s-text-is-white-and-hard-to-read.md)
+- [Integrating your Strava account to Sintra](https://help.sintra.ai/en/articles/10384069-integrating-your-strava-account-to-sintra.md): Learn how to connect your Strava account to your Brain AI profile. Get insights about your latest activities.
+- [Integrating your QuickBooks account to Sintra](https://help.sintra.ai/en/articles/10692995-integrating-your-quickbooks-account-to-sintra.md): Learn how to connect your QuickBooks account to your Brain AI profile. Seamlessly manage your financial data, including invoices, payments, and reports, while keeping track of your customers and ve...
+- [Helper Actions with YouTube Integration](https://help.sintra.ai/en/articles/13428766-helper-actions-with-youtube-integration.md): Learn what can you ask Sintra to do with your connected YouTube account
+- [Helper Actions with TikTok Integration](https://help.sintra.ai/en/articles/13429699-helper-actions-with-tiktok-integration.md): Learn what you can ask Sintra to do with your connected TikTok account.
+- [Helper actions with Todoist integration](https://help.sintra.ai/en/articles/13439321-helper-actions-with-todoist-integration.md): Dive deeper into how Helpers operate directly in the chat interface once the Todoist integration is connected, and review prompt examples for efficient task management.
+- [Helper actions with Strava integration](https://help.sintra.ai/en/articles/13440304-helper-actions-with-strava-integration.md): Dive deeper into how Helpers operate directly in the chat interface once the Strava integration is connected, and review prompt examples for turning your workout data into quick, useful answers.
+- [Helper actions with Google Tasks integration](https://help.sintra.ai/en/articles/13440728-helper-actions-with-google-tasks-integration.md): Learn how Helpers work directly in the chat interface once the Google Tasks integration is connected, and explore prompt examples for simple task management.
+- [Shopify integration](https://help.sintra.ai/en/articles/13927523-shopify-integration.md): Learn how to connect and use Shopify integration
+- [Integrating your Google account to Sintra](https://help.sintra.ai/en/articles/10383940-integrating-your-google-account-to-sintra.md): Learn how to connect your Google account to your Brain AI profile. Manage your Google ecosystem needs from one place.
+- [How to use a Google Drive integration with Sintra AI](https://help.sintra.ai/en/articles/11534682-how-to-use-a-google-drive-integration-with-sintra-ai.md): Learn what Google Drive integration does and how to use it.
+- [Integrating your LinkedIn accounts to Sintra](https://help.sintra.ai/en/articles/10383905-integrating-your-linkedin-accounts-to-sintra.md): Learn how to connect your LinkedIn accounts to your Brain AI profile. Easily manage your posting schedule for your page.
+- [Integrating your Microsoft account to Sintra](https://help.sintra.ai/en/articles/10383990-integrating-your-microsoft-account-to-sintra.md): Learn how to connect your Microsoft account to your Brain AI profile. Manage your Outlook emails and calendar directly through Sintra.
+- [Setting up Notion integration](https://help.sintra.ai/en/articles/12332603-setting-up-notion-integration.md): Learn how to set up Notion integration.
+- [Helper actions with Notion integration](https://help.sintra.ai/en/articles/12148625-helper-actions-with-notion-integration.md): Dive deeper into what actions Helpers can do in the chat interface once the Notion integration is set up and find prompt examples.
+- [Notion page is not accessible](https://help.sintra.ai/en/articles/12332623-notion-page-is-not-accessible.md): Learn what to do if Notion pages aren't available post integration.
+- [Integrating your Facebook and Instagram account to Sintra](https://help.sintra.ai/en/articles/10384189-integrating-your-facebook-and-instagram-account-to-sintra.md): Learn how to connect your Facebook and Instagram accounts to your Brain AI profile. Easily manage social media content for your pages.
+- [Connecting your Facebook page to your Instagram account](https://help.sintra.ai/en/articles/10377268-connecting-your-facebook-page-to-your-instagram-account.md): To use Sintra for posting on Instagram, it's essential to connect your Facebook-managed page to your Instagram business or creator account. Here's a quick guide to get you started.
+- [How to set up a Meta Business Suite account](https://help.sintra.ai/en/articles/12620275-how-to-set-up-a-meta-business-suite-account.md): Learn how to set up a Meta Business Suite account
+- [Facebook page/Instagram profile is not visible in dropdown](https://help.sintra.ai/en/articles/12637007-facebook-page-instagram-profile-is-not-visible-in-dropdown.md): Learn what to do if you're setting up social media manager and cannot see your Facebook and/or Instagram social media profiles in the dropdown selection.
+- [How to manage multiple Facebook and Instagram pages with one Sintra account](https://help.sintra.ai/en/articles/12159787-how-to-manage-multiple-facebook-and-instagram-pages-with-one-sintra-account.md)
+- [Can I connect only Instagram?](https://help.sintra.ai/en/articles/12159883-can-i-connect-only-instagram.md)
+- [Can I integrate WhatsApp?](https://help.sintra.ai/en/articles/12131251-can-i-integrate-whatsapp.md)
+- [Automations explained](https://help.sintra.ai/en/articles/9823490-automations-explained.md): Learn what automations Sintra offers and how they lighten your workload.
+- [Inbox Manager](https://help.sintra.ai/en/articles/12761716-inbox-manager.md): Learn about email inbox manager automation and how to use it.
+- [Daily Summarizer](https://help.sintra.ai/en/articles/13677229-daily-summarizer.md): Learn about the Daily Summarizer automation and how it helps you start every day organized and informed.
+- [Facebook Commenter](https://help.sintra.ai/en/articles/13678741-facebook-commenter.md): Learn about the Facebook Commenter automation and how it helps you manage your Facebook Page.
+- [Social media manager](https://help.sintra.ai/en/articles/13463387-social-media-manager.md): Managing your brand’s social media can be simple and efficient with Sintra’s Social Media Manager. Here’s a step-by-step guide to help you get started with automated post creation, scheduling, revi...
+- [Social media content manager](https://help.sintra.ai/en/articles/12507919-social-media-content-manager.md): Lean what is and how to use our Social Media Manager feature, automating social media content management for LinkedIn, Facebook page and Instagram Creator/Business pages.
+- [Setting up periodic social media post generation for the first time](https://help.sintra.ai/en/articles/12701222-setting-up-periodic-social-media-post-generation-for-the-first-time.md): Learn how to set up social media content generation automation for Instagram, Facebook, and LinkedIn for the first time.
+- [Reviewing periodically generated social media posts](https://help.sintra.ai/en/articles/12701252-reviewing-periodically-generated-social-media-posts.md): Learn how, when, and where to review Soshie's generated social media posts.
+- [How do I tell Soshie which image to use?](https://help.sintra.ai/en/articles/11928033-how-do-i-tell-soshie-which-image-to-use.md)
+- [Are images reused in Social Media Manager posts?](https://help.sintra.ai/en/articles/11928095-are-images-reused-in-social-media-manager-posts.md)
+- [Will Soshie use the same image multiple times?](https://help.sintra.ai/en/articles/11928097-will-soshie-use-the-same-image-multiple-times.md)
+- [Can I reuse an image in future posts?](https://help.sintra.ai/en/articles/11928104-can-i-reuse-an-image-in-future-posts.md)
+- [What happens to images after they're used?](https://help.sintra.ai/en/articles/11928107-what-happens-to-images-after-they-re-used.md)
+- [Are used by social media manager images archived?](https://help.sintra.ai/en/articles/11928111-are-used-by-social-media-manager-images-archived.md)
+- [Are uploaded images only used once?](https://help.sintra.ai/en/articles/11928099-are-uploaded-images-only-used-once.md)
+- [Is image reuse supported in automatic posts?](https://help.sintra.ai/en/articles/11928120-is-image-reuse-supported-in-automatic-posts.md)
+- [Will Social Media Manager recycle my content?](https://help.sintra.ai/en/articles/11928131-will-social-media-manager-recycle-my-content.md)
+- [Can I stop images from being reused?](https://help.sintra.ai/en/articles/11928135-can-i-stop-images-from-being-reused.md)
+- [How does Soshie treat used images?](https://help.sintra.ai/en/articles/11928141-how-does-soshie-treat-used-images.md)
+- [Do I need to re-upload for another post?](https://help.sintra.ai/en/articles/11928145-do-i-need-to-re-upload-for-another-post.md)
+- [how to schedule a post and then review or approve it in a mobile app?](https://help.sintra.ai/en/articles/11948766-how-to-schedule-a-post-and-then-review-or-approve-it-in-a-mobile-app.md)
+- [Which social media platforms allow text-only posts?](https://help.sintra.ai/en/articles/12299934-which-social-media-platforms-allow-text-only-posts.md): Learn which social media platforms require an image and which can be used without an image.
+- [Which social media platforms require an image?](https://help.sintra.ai/en/articles/12299924-which-social-media-platforms-require-an-image.md): Learn which social media platforms require an image and which can be used without an image.
+- [Can I include uploaded images in my social posts?](https://help.sintra.ai/en/articles/11928043-can-i-include-uploaded-images-in-my-social-posts.md)
+- [How do I add an image to a scheduled post?](https://help.sintra.ai/en/articles/11928046-how-do-i-add-an-image-to-a-scheduled-post.md)
+- [How can I prompt Soshie with an image name?](https://help.sintra.ai/en/articles/11928066-how-can-i-prompt-soshie-with-an-image-name.md)
+- [Where in the interface do I upload my daily images?](https://help.sintra.ai/en/articles/11904662-where-in-the-interface-do-i-upload-my-daily-images.md)
+- [Website Builder](https://help.sintra.ai/en/articles/12507628-website-builder.md): Learn about Website Builder and how to use it.
+- [How to manage posts on Social Media using Sintra AI](https://help.sintra.ai/en/articles/11053937-how-to-manage-posts-on-social-media-using-sintra-ai.md): Learn how to easily manage Social Media platforms. Post and schedule posts and stories directly from Sintra using Social Media integrations.
+- [How to manage emails using Sintra AI](https://help.sintra.ai/en/articles/11376634-how-to-manage-emails-using-sintra-ai.md): Learn how to manage your email platforms like Gmail or Outlook on Sintra. Check, send, and manage all your emails in one place.
+- [How to manage your calendar using Sintra AI](https://help.sintra.ai/en/articles/11431351-how-to-manage-your-calendar-using-sintra-ai.md): Read, create, edit and delete your Google Calendar events in Sintra.
+- [How to use Notion on Sintra AI](https://help.sintra.ai/en/articles/11589572-how-to-use-notion-on-sintra-ai.md): Learn how to manage your Notion pages on Sintra. Allow the Notion integration to create and read child pages from your workspace.
+- [How does Sintra AI handle Excel files and automate related tasks?](https://help.sintra.ai/en/articles/11882641-how-does-sintra-ai-handle-excel-files-and-automate-related-tasks.md): Learn how Sintra can process excel files and what are the limitations.
+- [Use cases \(formerly power-ups\) explained](https://help.sintra.ai/en/articles/9608830-use-cases-formerly-power-ups-explained.md): Learn how to use Power-Ups, the micro-AI tools that supercharge your Sintra Helpers, enabling faster completion of daily repetetive tasks.
+- [Connecting a custom domain to Sintra's generated website](https://help.sintra.ai/en/articles/12818974-connecting-a-custom-domain-to-sintra-s-generated-website.md): Learn how to connect a custom domain to a website that was generated by Commet.
+- [How to Prompt Helpers: Best Practices and Examples](https://help.sintra.ai/en/articles/13052570-how-to-prompt-helpers-best-practices-and-examples.md): Learn the best ways to write effective prompts for Sintra Helpers. Get practical tips and examples to help you get clear, accurate results every time.
+- [How to draw insights from data](https://help.sintra.ai/en/articles/13052496-how-to-draw-insights-from-data.md): Learn how to quickly and easily get valuable insights from your data using Dexter, Sintra’s data analysis helper.
+- [How to generate a workout plan?](https://help.sintra.ai/en/articles/13059815-how-to-generate-a-workout-plan.md): Learn how to create a personalized exercise plan by combining Gigi Helper, Strava integration, and prompt-based customization.
+- [How to Respond to User Inquiries Faster in Email](https://help.sintra.ai/en/articles/13060449-how-to-respond-to-user-inquiries-faster-in-email.md): Responding quickly and accurately to user inquiries is key to great support. Using Cassie, Brain AI, and clear prompts helps you answer faster and more effectively. Here’s a quick guide with examples.
+- [How to share information with your team efficiently](https://help.sintra.ai/en/articles/13061006-how-to-share-information-with-your-team-efficiently.md): Efficient knowledge sharing drives business growth and smooth teamwork. In a fast-paced environment, Brain AI centralizes business knowledge, giving teams instant access to accurate information for...
+- [How to prepare data for Dexter analysis](https://help.sintra.ai/en/articles/13144761-how-to-prepare-data-for-dexter-analysis.md): Making your data easy for Dexter to analyze starts with clear, organized, and well-documented files. This guide provides best practices and examples to ensure Dexter can deliver accurate, actionabl...
+- [Changing the Favicon on your Sintra's hosted website](https://help.sintra.ai/en/articles/15163214-changing-the-favicon-on-your-sintra-s-hosted-website.md): Learn how to update the favicon displayed on your Sintra-generated website using either the new homepage main chat feature or through Commet directly.
 
 ## Account & billing
 
@@ -59,3 +232,25 @@
 - [I'm unable to post to Facebook and/or Instagram](https://help.sintra.ai/en/articles/12164578-i-m-unable-to-post-to-facebook-and-or-instagram.md)
 - [How to change the timezone Helpers work in?](https://help.sintra.ai/en/articles/12546134-how-to-change-the-timezone-helpers-work-in.md): Understanding how Sintra handles timezones helps ensure your tasks, schedules, and calendar views always reflect the correct local time.
 - [Reconnecting an integration in Sintra from scratch](https://help.sintra.ai/en/articles/12637026-reconnecting-an-integration-in-sintra-from-scratch.md): Learn how to reconnect an integration from scratch after attempting initial troubleshooting steps.
+- [Authentication error on Sintra AI browser app](https://help.sintra.ai/en/articles/11584508-authentication-error-on-sintra-ai-browser-app.md): Learn what to do if you face an authentication error via Sintra's browser app.
+- [Error: Loading chunk 3908 failed](https://help.sintra.ai/en/articles/11626065-error-loading-chunk-3908-failed.md): Learn how to troubleshoot the error "Loading chunk 3908 failed"
+- [Error: \[Function call\] received an unexpected keyword argument \[when trying to take actions on other platforms\]](https://help.sintra.ai/en/articles/12505413-error-function-call-received-an-unexpected-keyword-argument-when-trying-to-take-actions-on-other-platforms.md)
+- ["There was an issue" error appeared when adding a connection in settings](https://help.sintra.ai/en/articles/12505419-there-was-an-issue-error-appeared-when-adding-a-connection-in-settings.md)
+- [An error occurred while using the tool: 'id' / Image upload failed](https://help.sintra.ai/en/articles/12505421-an-error-occurred-while-using-the-tool-id-image-upload-failed.md)
+- ["You need to be subscribed to access this resource" error](https://help.sintra.ai/en/articles/12505424-you-need-to-be-subscribed-to-access-this-resource-error.md)
+- ["Access denied" error when accessing generated images](https://help.sintra.ai/en/articles/12505428-access-denied-error-when-accessing-generated-images.md)
+- [Network error on browser app](https://help.sintra.ai/en/articles/12505430-network-error-on-browser-app.md)
+- ["AxiosError: Request failed 400" at checkout](https://help.sintra.ai/en/articles/12505432-axioserror-request-failed-400-at-checkout.md)
+- [Troubleshooting Web Builder's contact form](https://help.sintra.ai/en/articles/15703426-troubleshooting-web-builder-s-contact-form.md): Learn how to diagnose contact form issues - including how to tell the difference between a real failure and a false-positive UI error where the email was actually delivered successfully.
+- [Didn't receive the one-time login code](https://help.sintra.ai/en/articles/12505335-didn-t-receive-the-one-time-login-code.md): When logging in for the first time via email, you receive a code via email that needs to be entered in the login screen. Learn what to do if this happens to you.
+- [Login screen is blank, white or doesn't work \(browser app\)](https://help.sintra.ai/en/articles/12505353-login-screen-is-blank-white-or-doesn-t-work-browser-app.md): If, when trying to log in, login screen is white or blank - learn how to troubleshoot it.
+- [Unable to press "continue with email" in login screen \(browser\)](https://help.sintra.ai/en/articles/12505378-unable-to-press-continue-with-email-in-login-screen-browser.md)
+- [App is blank after login \(mobile\)](https://help.sintra.ai/en/articles/12569048-app-is-blank-after-login-mobile.md)
+- [Helpers don't help](https://help.sintra.ai/en/articles/10670493-helpers-don-t-help.md): Learn what are AI prompting best-practices and ensure Sintra Helpers are performing according to your needs!
+- [Helper is creating a document, but the canvas keeps loading](https://help.sintra.ai/en/articles/12395824-helper-is-creating-a-document-but-the-canvas-keeps-loading.md): Learn what to do if the helper keeps loading the document its trying to create and is not performing any action.
+- [Helper stops responding](https://help.sintra.ai/en/articles/12522322-helper-stops-responding.md): Learn how to troubleshoot unresponsive helpers
+- [My Instagram and facebook page are connected but wont cross post](https://help.sintra.ai/en/articles/12530207-my-instagram-and-facebook-page-are-connected-but-wont-cross-post.md)
+- [Opening a new chat with a helper: when and why](https://help.sintra.ai/en/articles/12506572-opening-a-new-chat-with-a-helper-when-and-why.md): Learn when opening a new chat with a helper is a good troubleshooting step and why is it like so.
+- [Clearing browser's cache and cookies: when and why](https://help.sintra.ai/en/articles/12506864-clearing-browser-s-cache-and-cookies-when-and-why.md): Learn why clearing your browser's cache and cookies may help troubleshoot your issue and when to use this step.
+- [How to submit feature requests to Sintra AI?](https://help.sintra.ai/en/articles/10892341-how-to-submit-feature-requests-to-sintra-ai.md): Learn how to request a new feature or integration for Sintra AI. Share your insights and help us keep improving our service!
+- [How to submit feedback for Sintra AI?](https://help.sintra.ai/en/articles/10892551-how-to-submit-feedback-for-sintra-ai.md): Learn how to provide feedback for Sintra. Share your thoughts and help us grow!

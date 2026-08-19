@@ -1,0 +1,88 @@
+generated: '2026-08-13'
+method: searched
+source: https://sintra.ai/pricing
+docs:
+- https://sintra.ai/pricing
+- https://help.sintra.ai/en/articles/12606895-plans-and-pricing
+- https://help.sintra.ai/en/articles/12606676-workspace-credits
+description: >-
+  Sintra's published subscription plans, read from the public pricing page. Sintra
+  is a seat-and-credit consumer/SMB SaaS, not a developer platform: plans buy access
+  to the AI "helpers" in the web and mobile apps and a monthly pool of workspace
+  credits. No plan includes API access, an API key, or a developer tier, because
+  Sintra publishes no public API.
+currency: USD
+billing_model: subscription + prepaid monthly credit pool
+plan_count: 3
+enterprise_tier: false
+enterprise_note: >-
+  No "contact sales" / enterprise tier is published on the pricing page. Every tier
+  is self-serve and priced publicly.
+plans:
+- name: Sintra X — 1-Month Plan
+  price: 48.50
+  list_price: 97.00
+  currency: USD
+  billing_period: monthly
+  commitment: 1 month
+  discount: 50% off list
+  included_quota:
+    credits_per_month: 250
+  entitlements:
+  - All 12+ AI helpers
+  - 15+ integrations
+  - 24/7 support
+  api_access: false
+- name: Sintra X — 3-Month Plan
+  price: 23.60
+  list_price: 59.00
+  currency: USD
+  billing_period: monthly
+  commitment: 3 months
+  discount: 60% off list
+  included_quota:
+    credits_per_month: 250
+  entitlements:
+  - All 12+ AI helpers
+  - 15+ integrations
+  - 24/7 support
+  api_access: false
+- name: Sintra X — 12-Month Plan
+  price: 15.60
+  list_price: 52.00
+  currency: USD
+  billing_period: monthly
+  commitment: 12 months
+  discount: 70% off list
+  most_popular: true
+  included_quota:
+    credits_per_month: 250
+  entitlements:
+  - All 12+ AI helpers
+  - 15+ integrations
+  - 24/7 support
+  api_access: false
+add_ons:
+- name: Individual Helper
+  price: 39.00
+  currency: USD
+  billing_period: monthly
+  note: >-
+    A single helper bought on its own rather than the Sintra X bundle. Published
+    for each of Soshie, Cassie, Dexter, Buddy, Emmie, Gigi, Scouty, Penn, Commet,
+    Milli, Seomi and Vizzy at the same $39/month price.
+overage:
+  model: credit pool
+  rollover: false
+  reset: >-
+    Credits reset at the start of each billing cycle, on the same date and time the
+    subscription started. Unused credits do not roll over.
+  note: >-
+    Sintra's help center documents credit consumption rates but does not publish a
+    per-credit overage price or a top-up price list on the public pricing page. See
+    rate-limits/sintra-rate-limits.yml for the consumption rates.
+trial:
+  free_trial: false
+  free_credits: 20
+  free_credits_note: 20 free credits on creating a new workspace in an existing account.
+  money_back_guarantee_days: 14

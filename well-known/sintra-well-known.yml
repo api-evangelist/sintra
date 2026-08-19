@@ -1,34 +1,108 @@
-generated: '2026-07-21'
-method: searched
-source: live probe of /.well-known/ on sintra.ai and api.sintra.ai
+generated: '2026-08-13'
+method: probed
+source: live probe of /.well-known/ on sintra.ai, api.sintra.ai and help.sintra.ai
 description: >-
-  Results of probing the /.well-known/ discovery surface for the Sintra base
-  hosts. Sintra is a no-code AI-employees SaaS with no public developer API, so
-  no OpenID/OAuth/API-catalog discovery documents are published. Every probed
-  path returned 404. Status is the HTTP code observed at fetch time; nothing was
-  saved because no path returned a real document.
+  Results of probing the /.well-known/ discovery surface for every Sintra host.
+  Sintra publishes no public developer API, and no Sintra-controlled host serves
+  any /.well-known/ document: every path on sintra.ai and api.sintra.ai returned
+  404. The single 200 in this probe — /.well-known/security.txt on
+  help.sintra.ai — is NOT Sintra's document. help.sintra.ai is a CNAME to
+  us.intercomhelpcenter.com and the file self-identifies as Intercom's, naming
+  Intercom's Bugcrowd program, security@intercom.com and
+  Canonical: https://app.intercom.com/.well-known/security.txt. It is served by
+  the help-desk vendor to every customer subdomain and says nothing about
+  Sintra's own security posture, so it is recorded here as a vendor artifact and
+  is deliberately NOT wired as a SecurityTxt, Security or VulnerabilityDisclosure
+  pointer in apis.yml. For the same reason no WellKnown pointer is emitted: no
+  Sintra-controlled path returned a real document.
+pointer_emitted: false
+pointer_note: >-
+  No common[].type WellKnown / SecurityTxt pointer is wired. Zero Sintra-owned
+  paths returned a document; the only 200 belongs to Intercom.
 hosts:
-  - host: https://sintra.ai
-    documents:
-      - path: /.well-known/security.txt
-        status: 404
-      - path: /.well-known/openid-configuration
-        status: 404
-      - path: /.well-known/oauth-authorization-server
-        status: 404
-      - path: /.well-known/api-catalog
-        status: 404
-      - path: /.well-known/ai-plugin.json
-        status: 404
-  - host: https://api.sintra.ai
-    documents:
-      - path: /.well-known/security.txt
-        status: 404
-      - path: /.well-known/openid-configuration
-        status: 404
-      - path: /.well-known/oauth-authorization-server
-        status: 404
-      - path: /.well-known/api-catalog
-        status: 404
-      - path: /.well-known/ai-plugin.json
-        status: 404
+- host: https://sintra.ai
+  owner: sintra
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+    content_type: text/html
+  - path: /.well-known/openid-configuration
+    status: 404
+    content_type: text/html
+  - path: /.well-known/oauth-authorization-server
+    status: 404
+    content_type: text/html
+  - path: /.well-known/api-catalog
+    status: 404
+    content_type: text/html
+  - path: /.well-known/ai-plugin.json
+    status: 404
+    content_type: text/html
+  - path: /.well-known/agent-card.json
+    status: 404
+    content_type: text/html
+  - path: /.well-known/agent.json
+    status: 404
+    content_type: text/html
+- host: https://api.sintra.ai
+  owner: sintra
+  note: >-
+    Live host. Returns a JSON 404 envelope {"detail":"Not Found"} on every path,
+    the Starlette/FastAPI default, so a real application backend is running here.
+    It is the private backend for the Sintra web and mobile apps, not a published
+    developer API — the FastAPI documentation routes (/docs, /redoc,
+    /openapi.json) are all disabled and return the same JSON 404.
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+    content_type: application/json
+  - path: /.well-known/openid-configuration
+    status: 404
+    content_type: application/json
+  - path: /.well-known/oauth-authorization-server
+    status: 404
+    content_type: application/json
+  - path: /.well-known/api-catalog
+    status: 404
+    content_type: application/json
+  - path: /.well-known/ai-plugin.json
+    status: 404
+    content_type: application/json
+  - path: /.well-known/agent-card.json
+    status: 404
+    content_type: application/json
+  - path: /.well-known/agent.json
+    status: 404
+    content_type: application/json
+- host: https://help.sintra.ai
+  owner: intercom
+  owner_evidence: 'DNS: help.sintra.ai CNAME us.intercomhelpcenter.com'
+  documents:
+  - path: /.well-known/security.txt
+    status: 200
+    content_type: text/plain
+    belongs_to: Intercom
+    canonical: https://app.intercom.com/.well-known/security.txt
+    contact: security@intercom.com
+    file: null
+    note: >-
+      Not saved and not wired. Vendor-owned document served by the Intercom
+      help-center platform on every customer subdomain.
+  - path: /.well-known/openid-configuration
+    status: 404
+    content_type: text/html
+  - path: /.well-known/oauth-authorization-server
+    status: 404
+    content_type: text/html
+  - path: /.well-known/api-catalog
+    status: 404
+    content_type: text/html
+  - path: /.well-known/ai-plugin.json
+    status: 404
+    content_type: text/html
+  - path: /.well-known/agent-card.json
+    status: 404
+    content_type: text/html
+  - path: /.well-known/agent.json
+    status: 404
+    content_type: text/html

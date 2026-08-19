@@ -1,0 +1,81 @@
+generated: '2026-08-13'
+method: searched
+source: >-
+  Registry searches of npm, PyPI, RubyGems, crates.io, NuGet, Maven Central and
+  pkg.go.dev; GitHub org github.com/sintra-ai; and the asset URLs loaded by
+  https://sintra.ai
+description: >-
+  Sintra publishes no client SDK in any language, because Sintra publishes no
+  public API to wrap. The registries were searched and the results are recorded
+  below as honest negatives. One first-party published package DOES exist — the
+  Webflow front-end asset bundle Sintra's own marketing site loads from jsDelivr,
+  pinned at a specific tag — and it is recorded because it is genuinely
+  first-party and genuinely versioned, but it is website presentation code, not
+  an API client. No `SDKs` pointer is wired in apis.yml for that reason.
+sdk_count: 0
+official_sdk_count: 0
+package_count: 1
+packages:
+- name: wf-snt-ai
+  official: true
+  sdk: false
+  kind: web-assets
+  language: JavaScript
+  registry: cdn
+  registry_url: https://data.jsdelivr.com/v1/packages/gh/sintra-ai/wf-snt-ai
+  distribution: https://cdn.jsdelivr.net/gh/sintra-ai/wf-snt-ai@v0.0.3/dist/css/style.css
+  source: https://github.com/sintra-ai/wf-snt-ai
+  version: 0.0.3
+  published: '2026-05-07'
+  pinned: true
+  ownership_evidence: >-
+    Loaded by <link href="https://cdn.jsdelivr.net/gh/sintra-ai/wf-snt-ai@v0.0.3/..."> in
+    the HTML of https://sintra.ai, from the sintra-ai GitHub org whose profile name is
+    "sintra" and description "we help small businesses grow". The site loading its own
+    stylesheet from that org is what establishes the org as Sintra's.
+  note: >-
+    Styling/behaviour bundle for the Sintra Webflow marketing site ("wf" = Webflow).
+    Distributed via the jsDelivr GitHub endpoint rather than a package registry, so
+    there is no npm/PyPI metadata endpoint; the version is read from the pinned tag in
+    the URL itself and the date from the matching GitHub release. jsDelivr reports tags
+    v0.0.0 through v0.0.3; the site pins v0.0.3. Repo last pushed 2026-07-31, i.e. the
+    default branch has moved since the last tagged release. Not a consumable client
+    library — no API to call.
+registries_searched:
+- registry: npm
+  queries:
+  - sintra
+  - sintra-ai
+  - '@sintra/sdk'
+  - sintra-sdk
+  - '@sintraai/sdk'
+  result: none
+  note: >-
+    npm `sintra` exists (HTTP 200) but is NOT this company — it is "A slick web
+    framework for Node.js" published by jodysalt from github.com/blognami/blognami.
+    Rejected on ownership. Every other name 404s.
+- registry: pypi
+  queries:
+  - sintra
+  - sintra-ai
+  - sintraai
+  result: none
+- registry: rubygems
+  result: none
+- registry: crates.io
+  result: none
+- registry: nuget
+  result: none
+- registry: maven-central
+  result: none
+- registry: pkg.go.dev
+  result: none
+mobile_apps:
+- platform: ios
+  name: Sintra — AI Employees
+  url: https://apps.apple.com/us/app/sintra-ai-employees/id6737126864
+  note: End-user app store listing, not a developer package. Recorded for completeness.
+- platform: android
+  name: Sintra
+  url: https://play.google.com/store/apps/details?id=com.anonymous.sintramobile
+  note: End-user app store listing, not a developer package. Recorded for completeness.
