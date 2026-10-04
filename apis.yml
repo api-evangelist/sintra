@@ -53,7 +53,7 @@ tags:
 - Automation
 - No-Code
 - Productivity
-- Customer-Support
+- Customer Support
 - Marketing
 - Software-as-a-Service
 - Small Business
@@ -69,6 +69,7 @@ tags_raw:
 - Marketing
 - SaaS
 - Small Business
+- Customer-Support
 apis: []
 common:
 - type: DomainSecurity
